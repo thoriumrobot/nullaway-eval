@@ -1,0 +1,8 @@
+@ jib: downloading...
+@ jib: applying patch... /naenv/nullaway-eval/patches/jib/nullaway
+> Capture javac args - jib
+> Build Begin - jib - nullaway
+[F	[1;31mFAIL [0m
+3 compiles.
+3 errors: Check log! /naenv/nullaway-eval/eval.log
+00:01:09
