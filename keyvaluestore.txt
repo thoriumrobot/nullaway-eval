@@ -1,4 +1,8 @@
+@ keyvaluestore: downloading...
+@ keyvaluestore: applying patch... /home/somi/artifact/nullaway-eval/patches/keyvaluestore/nullaway
+> Capture javac args - keyvaluestore
 > Build Begin - keyvaluestore - nullaway
-[F	[1;32mPASS [0m
+[F	[1;31mFAIL [0m
 0 compiles.
-00:00:00
+1 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:00:26

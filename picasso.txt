@@ -1,4 +1,8 @@
+@ picasso: downloading...
+@ picasso: applying patch... /home/somi/artifact/nullaway-eval/patches/picasso/nullaway
+> Capture javac args - picasso
 > Build Begin - picasso - nullaway
-[F	[1;32mPASS [0m
+[F	[1;31mFAIL [0m
 0 compiles.
-00:00:00
+2 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:00:13

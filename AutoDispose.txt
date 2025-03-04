@@ -1,4 +1,8 @@
+@ AutoDispose: downloading...
+@ AutoDispose: applying patch... /home/somi/artifact/nullaway-eval/patches/AutoDispose/nullaway
+> Capture javac args - AutoDispose
 > Build Begin - AutoDispose - nullaway
-[F	[1;32mPASS [0m
-0 compiles.
-00:00:00
+[F	[1;31mFAIL [0m
+26 compiles.
+27 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:08:45

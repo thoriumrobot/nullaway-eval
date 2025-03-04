@@ -1,4 +1,8 @@
+@ QRContact: downloading...
+@ QRContact: applying patch... /home/somi/artifact/nullaway-eval/patches/QRContact/nullaway
+> Capture javac args - QRContact
 > Build Begin - QRContact - nullaway
-[F	[1;32mPASS [0m
-0 compiles.
-00:00:00
+[F	[1;31mFAIL [0m
+4 compiles.
+5 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:01:41

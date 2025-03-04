@@ -1,5 +1,8 @@
+@ meal-planner: downloading...
+@ meal-planner: applying patch... /home/somi/artifact/nullaway-eval/patches/meal-planner/nullaway
+> Capture javac args - meal-planner
 > Build Begin - meal-planner - nullaway
 [F	[1;31mFAIL [0m
-1 compiles.
-1 errors: Check log! /naenv/nullaway-eval/eval.log
-00:00:07
+0 compiles.
+2 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:00:21

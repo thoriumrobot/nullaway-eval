@@ -1,4 +1,8 @@
+@ ColdSnap: downloading...
+@ ColdSnap: applying patch... /home/somi/artifact/nullaway-eval/patches/ColdSnap/nullaway
+> Capture javac args - ColdSnap
 > Build Begin - ColdSnap - nullaway
-[F	[1;32mPASS [0m
+[F	[1;31mFAIL [0m
 0 compiles.
-00:00:00
+1 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:00:59

@@ -1,4 +1,5 @@
 > Build Begin - caffeine - nullaway
-[F	[1;32mPASS [0m
-0 compiles.
-00:00:00
+[F	[1;31mFAIL [0m
+3 compiles.
+3 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:00:33

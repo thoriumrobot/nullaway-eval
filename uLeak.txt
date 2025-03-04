@@ -1,4 +1,8 @@
+@ uLeak: downloading...
+@ uLeak: applying patch... /home/somi/artifact/nullaway-eval/patches/uLeak/nullaway
+> Capture javac args - uLeak
 > Build Begin - uLeak - nullaway
-[F	[1;32mPASS [0m
+[F	[1;31mFAIL [0m
 0 compiles.
-00:00:00
+2 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:00:15

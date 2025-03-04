@@ -1,8 +1,8 @@
 @ butterknife: downloading...
-@ butterknife: applying patch... /naenv/nullaway-eval/patches/butterknife/nullaway
+@ butterknife: applying patch... /home/somi/artifact/nullaway-eval/patches/butterknife/nullaway
 > Capture javac args - butterknife
 > Build Begin - butterknife - nullaway
 [F	[1;31mFAIL [0m
-17 compiles.
-17 errors: Check log! /naenv/nullaway-eval/eval.log
-00:04:14
+3 compiles.
+4 errors: Check log! /home/somi/artifact/nullaway-eval/eval.log
+00:01:01
